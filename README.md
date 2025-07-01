@@ -59,9 +59,3 @@ python contador_yolo.py
 - Apenas objetos que cruzam a linha uma vez são contados.
 
 ---
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
